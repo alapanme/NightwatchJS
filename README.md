@@ -4,8 +4,8 @@ Nightwatch.js is an integrated, easy to use End-to-End testing solution for web 
 # Benefits
 
 - Clean Syntax
-- Built in Test RUnner
-- Supports COntinuous Integration
+- Built in Test Runner
+- Supports Continuous Integration
 - Very Quick Setup
 - Built-in Test Case Reporting
 - Run Unit Tests, API tests and Mobile
