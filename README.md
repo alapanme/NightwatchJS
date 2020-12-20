@@ -19,3 +19,4 @@ Nightwatch.js is an integrated, easy to use End-to-End testing solution for web 
 
 # Articles on Nightwatch JS
 - [How to Install Nightwatch JS](https://testersdock.com/nightwatch-js-installation/)
+- [Writing your first test with Nightwatch JS](https://testersdock.com/nightwatch-js-first-test/)
