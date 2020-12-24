@@ -2,7 +2,7 @@ module.exports = {
     before : function(browser) {
 
       //Declaring GLobal Timeout
-      browser.globals.waitForConditionTimeout = 5000;
+      browser.globals.waitForConditionTimeout = 7000;
     },
 
     'Wikipedia Search' : function (browser) {

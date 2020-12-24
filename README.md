@@ -15,8 +15,9 @@ Nightwatch.js is an integrated, easy to use End-to-End testing solution for web 
 # How to Start
 1. Clone the project
 2. `npm i` - Install all the dependencies
-3. Run `npm test tests/test-name.js` to run the tests
+3. Run `npm test tests/test-name.js` OR `npx nightwatch tests/test-name.js` to execute the tests
 
 # Articles on Nightwatch JS
 - [How to Install Nightwatch JS](https://testersdock.com/nightwatch-js-installation/)
 - [Writing your first test with Nightwatch JS](https://testersdock.com/nightwatch-js-first-test/)
+- [How to execute Tests Parallelly in multiple browsers with Nightwatch JS](https://testersdock.com/execute-parallel-tests-nightwatchjs/)
