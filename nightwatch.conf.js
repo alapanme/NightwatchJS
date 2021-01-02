@@ -1,5 +1,6 @@
 module.exports = {
     src_folders: ["tests"],
+    skip_testcases_on_fail: false,
     test_settings: {
         default: {
             desiredCapabilities: {
