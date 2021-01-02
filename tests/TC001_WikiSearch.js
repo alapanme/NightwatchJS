@@ -1,7 +1,6 @@
 module.exports = {
     before : function(browser) {
-
-      //Declaring GLobal Timeout
+      //Declaring Global Timeout
       browser.globals.waitForConditionTimeout = 7000;
     },
 
