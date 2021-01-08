@@ -1,6 +1,12 @@
 module.exports = {
     src_folders: ["tests"],
     skip_testcases_on_fail: false,
+    screenshots: {
+        enabled: true,
+        path: "./screenshots",
+        on_failure: true,
+        on_error: true
+    },
     test_settings: {
         default: {
             desiredCapabilities: {
