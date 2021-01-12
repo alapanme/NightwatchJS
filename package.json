@@ -10,8 +10,11 @@
   "license": "ISC",
   "devDependencies": {
     "chromedriver": "^87.0.4",
+    "fs": "0.0.1-security",
     "geckodriver": "^1.21.1",
+    "handlebars": "^4.7.6",
     "nightwatch": "^1.5.1",
+    "path": "^0.12.7",
     "selenium-server": "^3.141.59"
   }
 }
