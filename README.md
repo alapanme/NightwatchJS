@@ -23,3 +23,4 @@ Nightwatch.js is an integrated, easy to use End-to-End testing solution for web 
 - [How to execute Tests Parallelly in multiple browsers with Nightwatch JS](https://testersdock.com/execute-parallel-tests-nightwatchjs/)
 - [How to prevent Tests from skipping if one test fails in Nightwatch JS](https://testersdock.com/prevent-tests-skip-nightwatchjs/)
 - [Different ways to take screenshots with Nightwatch JS](https://testersdock.com/nightwatch-js-screenshots/)
+- [How to create HTML Reports in Nightwatch JS](https://testersdock.com/nightwatch-js-html-report/)
