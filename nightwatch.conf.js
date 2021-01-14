@@ -1,6 +1,7 @@
 module.exports = {
     src_folders: ["tests"],
     skip_testcases_on_fail: false,
+    page_objects_path: "pageObjects",
     screenshots: {
         enabled: true,
         path: "./screenshots",
