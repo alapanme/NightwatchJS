@@ -25,3 +25,4 @@ Nightwatch.js is an integrated, easy to use End-to-End testing solution for web 
 - [Different ways to take screenshots with Nightwatch JS](https://testersdock.com/nightwatch-js-screenshots/)
 - [How to create HTML Reports in Nightwatch JS](https://testersdock.com/nightwatch-js-html-report/)
 - [Page Object Model in Nightwatch JS](https://testersdock.com/page-object-model-nightwatch-js/)
+- [How to handle simple and nested iFrames in Nightwatch JS](https://testersdock.com/simple-nested-iframes-nightwatch-js/)
