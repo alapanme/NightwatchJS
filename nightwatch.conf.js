@@ -12,7 +12,14 @@ module.exports = {
     test_settings: {
         default: {
             desiredCapabilities: {
-                browserName: 'chrome'
+                browserName: 'chrome',
+                chromeOptions: {
+                    prefs: {
+                        download: {
+                            default_directory: require('path').resolve(__dirname + '/download')
+                        }
+                    }
+                },
             },
             webdriver: {
                 start_process: true,
