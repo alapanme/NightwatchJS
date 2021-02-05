@@ -29,3 +29,4 @@ Nightwatch.js is an integrated, easy to use End-to-End testing solution for web 
 - [How to handle Shadow DOM in Nightwatch JS](https://testersdock.com/shadow-dom-nightwatch-js/)
 - [API Testing in Nightwatch JS](https://testersdock.com/api-testing-nightwatch-js/)
 - [How to upload and download a file in Nightwatch JS](https://testersdock.com/file-upload-download-nightwatch-js/)
+- [How to add tags to Nightwatch JS Tests](https://testersdock.com/nightwatch-js-test-tags/)
