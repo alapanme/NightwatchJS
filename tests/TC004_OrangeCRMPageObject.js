@@ -1,4 +1,5 @@
 module.exports = {
+    '@tags': ['integration'],
     before: function (browser) {
         //Declaring Global Timeout
         browser

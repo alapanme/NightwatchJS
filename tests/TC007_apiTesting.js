@@ -1,4 +1,5 @@
 module.exports = {
+    '@tags': ['smoke'],
     before: function (browser) {
 
         //Declaring Global Timeout
