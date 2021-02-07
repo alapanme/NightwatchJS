@@ -30,3 +30,4 @@ Nightwatch.js is an integrated, easy to use End-to-End testing solution for web 
 - [API Testing in Nightwatch JS](https://testersdock.com/api-testing-nightwatch-js/)
 - [How to upload and download a file in Nightwatch JS](https://testersdock.com/file-upload-download-nightwatch-js/)
 - [How to add tags to Nightwatch JS Tests](https://testersdock.com/nightwatch-js-test-tags/)
+- [How to handle multiple browser windows in Nightwatch JS](https://testersdock.com/nightwatch-js-multiple-browser-windows/)
