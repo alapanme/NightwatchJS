@@ -32,3 +32,4 @@ Nightwatch.js is an integrated, easy to use End-to-End testing solution for web 
 - [How to add tags to Nightwatch JS Tests](https://testersdock.com/nightwatch-js-test-tags/)
 - [How to handle multiple browser windows in Nightwatch JS](https://testersdock.com/nightwatch-js-multiple-browser-windows/)
 - [How to loop or iterate over multiple elements in Nightwatch JS](https://testersdock.com/nightwatch-js-looping/)
+- [Keyboard and Mouse Events in Nightwatch JS](https://testersdock.com/keyboard-and-mouse-events-in-nightwatch-js/)
