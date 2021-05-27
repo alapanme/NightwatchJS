@@ -9,11 +9,11 @@
   "author": "Alapan Das",
   "license": "ISC",
   "devDependencies": {
-    "chromedriver": "^89.0.0",
+    "chromedriver": "^90.0.1",
     "fs": "^0.0.1-security",
-    "geckodriver": "^1.22.3",
+    "geckodriver": "^2.0.0",
     "handlebars": "^4.7.7",
-    "nightwatch": "^1.6.2",
+    "nightwatch": "^1.6.4",
     "path": "^0.12.7",
     "request": "^2.88.2",
     "selenium-server": "^3.141.59"
